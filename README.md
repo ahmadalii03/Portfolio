@@ -1,7 +1,6 @@
-# Portfolio
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=435&lines=Hey+there+👋+I'm+Ahmad+Ali!;SOC+Analyst+in+Training+🛡️;CTF+Player+%7C+BSCYS+Student+%7C+AUCSS+Co-Lead" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hey+there+%F0%9F%91%8B+I'm+Ahmad+Ali!;SOC+Analyst+in+Training+%F0%9F%9B%A1%EF%B8%8F;CTF+Player+%7C+BSCYS+Student+%7C+AUCSS+Co-Lead" alt="Typing SVG"/>
 </p>
 
 ---
