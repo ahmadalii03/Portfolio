@@ -7,15 +7,15 @@
 
 ## 👨‍💻 About Me
 
-🎓 I’m a **Bachelor's in Cybersecurity (BSCYS)** student, just finished 4th semester.  
-🎯 Future **SOC Analyst** passionate about threat detection, blue teaming, and SIEM tools.  
-🎮 Actively involved in **CTFs** to sharpen real-world attack and defense skills.  
-🧠 Co-Lead @ **AUCSS Society**, managing operations and leading tech initiatives.  
+🎓 I’m a *Bachelor's in Cybersecurity (BSCYS)* student, just finished 4th semester.  
+🎯 Future *SOC Analyst* passionate about threat detection, blue teaming, and SIEM tools.  
+🎮 Actively involved in *CTFs* to sharpen real-world attack and defense skills.  
+🧠 Co-Lead @ *AUCSS Society*, managing operations and leading tech initiatives.  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/ahmad-ali-498131295?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠 Skills & Tools
 
 ### 🔐 Cybersecurity
 ![Kali Linux](https://img.shields.io/badge/Kali-Linux-5576A6?style=for-the-badge&logo=kalilinux&logoColor=white)
@@ -59,7 +59,7 @@ SOC Analyst | Blue Team Specialist
 Cybersecurity | Linux | CTFs | SIEM | Bash | Git
 
 > mission
-📚 Learn. ⚙️ Build. 🛡️ Defend.
+📚 Learn. ⚙ Build. 🛡 Defend.
 
 > contact
 📫 ahmadali03@github
